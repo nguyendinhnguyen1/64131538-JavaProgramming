@@ -5,7 +5,7 @@
 /**
  * 
  */
-public class SayHelloApp {
+public class Hello {
 
 	/**
 	 * @param args
@@ -14,6 +14,7 @@ public class SayHelloApp {
 		// TODO Auto-generated method stub
 		System.out.println("Xin chào ");
 		System.out.println("Nguyễn Đình Nguyên ");
+
 	}
 
 }
